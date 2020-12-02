@@ -1,3 +1,17 @@
+# Introduction
+
+This is a bootstrapped Laravel (version 8.10) app with ReactJS (version 16.3.1). It's using GraphQL (Lighthouse), you might need to install something for the frontend (e.g. Apollo). 
+
+I'm also running Homestead
+
+You might want to add your own [.env](https://quickadminpanel.com/blog/how-to-use-laravel-env-example-files/) file as well - here's one for Laravel 6
+
+Used this for one of my projects so you may run into some issues, please let me know so I can help fix it up in this project.
+
+
+# Anything below here is not mine, I owe the docs to the Create React App Laravel
+
+
 This project’s frontend was bootstrapped with [Create React App Laravel](https://github.com/mjsarfatti/create-react-app-laravel).
 
 ## Available Scripts
