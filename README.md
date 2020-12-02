@@ -4,7 +4,7 @@ This is a bootstrapped Laravel (version 8.10) app with ReactJS (version 16.3.1).
 
 I'm also running Homestead
 
-You might want to add your own [.env](https://quickadminpanel.com/blog/how-to-use-laravel-env-example-files/) file as well - here's one for Laravel 6
+Check out the .env.example to add your own .env file
 
 Used this for one of my projects so you may run into some issues, please let me know so I can help fix it up in this project.
 
